@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! Welcome to my page. <br>👩‍💻 I'm frontend developer.<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi! Welcome to my page. <br>👩‍💻 I'm frontend developer
 
 
 ## 🌐 Socials:
