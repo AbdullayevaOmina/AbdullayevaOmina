@@ -1,5 +1,7 @@
 # 💫 About Me:
+<h1>
 👋 Hi! Welcome to my page. <br>👩‍💻 I'm frontend developer
+</h1>
 
 
 ## 🌐 Socials:
