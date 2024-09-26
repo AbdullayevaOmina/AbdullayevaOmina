@@ -1,6 +1,3 @@
-# 💫 About Me:
-
-<br>
 <h1>
 👋 Hi! Welcome to my page. <br>👩‍💻 I'm Frontend Web Developer | ReactJS
 </h1>
